@@ -2,6 +2,10 @@ const {connection} = require("./database/connection");
 const express = require("express");
 const cors = require("cors");
 
+//************** Docs 
+// Designed and created by: Gustavo Galindo Bravo
+// Date: July 2022
+
 // ************** init App **************
 console.log("Node App Launched");
 
